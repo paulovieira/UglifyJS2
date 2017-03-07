@@ -1,6 +1,6 @@
 {
-  "name": "uglify-js",
-  "description": "JavaScript parser, mangler/compressor and beautifier toolkit",
+  "name": "uglify-js-es6",
+  "description": "JavaScript parser, mangler/compressor and beautifier toolkit (harmony branch)",
   "homepage": "http://lisperator.net/uglifyjs",
   "author": "Mihai Bazon <mihai.bazon@gmail.com> (http://lisperator.net/)",
   "license": "BSD-2-Clause",
