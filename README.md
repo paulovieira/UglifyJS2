@@ -2,6 +2,15 @@ UglifyJS 2
 ==========
 [![Build Status](https://travis-ci.org/mishoo/UglifyJS2.svg)](https://travis-ci.org/mishoo/UglifyJS2)
 
+IMPORTANT NOTE
+-------
+
+This is a temporary package containing the latest release of the ['harmony'](https://github.com/mishoo/UglifyJS2/tree/harmony) brach of uglifyjs. You should only install this if git is not available in your computer (otherwise you might as well install directly from github, using 'npm install mishoo/UglifyJS2#harmony').
+
+The original readme is below.
+
+------
+
 UglifyJS is a JavaScript parser, minifier, compressor or beautifier toolkit.
 
 This page documents the command line utility.  For
